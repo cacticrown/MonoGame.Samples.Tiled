@@ -1,0 +1,155 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "levels/00.tmj",
+    "expandedProjectPaths": [
+        "levels",
+        "."
+    ],
+    "fileStates": {
+        "00.tmj": {
+            "scale": 1.375125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 399.963639669121,
+                "y": 240.34178711026271
+            }
+        },
+        "level00.tmj": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 531.5,
+                "y": 18.25
+            }
+        },
+        "levels/00.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 547,
+                "y": 392.5
+            }
+        },
+        "levels/01.tmj": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 820,
+                "y": 437
+            }
+        },
+        "levels/02.tmj": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 260.60606060606074,
+                "y": 586.3636363636364
+            }
+        },
+        "levels/03.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1440,
+                "y": 710
+            }
+        },
+        "levels/04.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1000,
+                "y": 956
+            }
+        },
+        "levels/05.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1868,
+                "y": 18
+            }
+        },
+        "levels/06.tmj": {
+            "scale": 1.375125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 399.963639669121,
+                "y": 240.34178711026271
+            }
+        },
+        "levels/07.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 268,
+                "y": 18
+            }
+        },
+        "levels/08.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -120,
+                "y": 428
+            }
+        },
+        "levels/09.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -6680,
+                "y": 542
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor",
+    "last.worldFilePath": "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor/levels",
+    "loadedWorlds": [
+        "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor/levels/alllevels.world",
+        "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor/levels/alllevels.world"
+    ],
+    "map.height": 15,
+    "map.lastUsedFormat": "json",
+    "map.tileWidth": 40,
+    "map.width": 20,
+    "openFiles": [
+        "levels/00.tmj",
+        "levels/02.tmj",
+        "levels/03.tmj",
+        "levels/04.tmj",
+        "levels/05.tmj",
+        "levels/06.tmj",
+        "levels/07.tmj",
+        "levels/08.tmj",
+        "levels/09.tmj",
+        "levels/01.tmj"
+    ],
+    "project": "platformer2d.tiled-project",
+    "recentFiles": [
+        "levels/01.tmj",
+        "levels/09.tmj",
+        "levels/08.tmj",
+        "levels/07.tmj",
+        "levels/06.tmj",
+        "levels/05.tmj",
+        "levels/04.tmj",
+        "levels/03.tmj",
+        "levels/02.tmj",
+        "levels/00.tmj",
+        "00.tmj",
+        "level00.tmj"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 40
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "maps": [
+        {
+            "fileName": "01.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "02.tmj",
+            "height": 480,
+            "width": 1600,
+            "x": 800,
+            "y": 0
+        },
+        {
+            "fileName": "00.tmj",
+            "height": 480,
+            "width": 800,
+            "x": -800,
+            "y": 0
+        },
+        {
+            "fileName": "03.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 2400,
+            "y": 0
+        },
+        {
+            "fileName": "04.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 3200,
+            "y": 0
+        },
+        {
+            "fileName": "05.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 4000,
+            "y": 0
+        },
+        {
+            "fileName": "06.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 4800,
+            "y": 0
+        },
+        {
+            "fileName": "07.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 5600,
+            "y": 0
+        },
+        {
+            "fileName": "08.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 6400,
+            "y": 0
+        },
+        {
+            "fileName": "09.tmj",
+            "height": 480,
+            "width": 800,
+            "x": 7200,
+            "y": 0
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
