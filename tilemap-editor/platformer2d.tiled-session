@@ -26,83 +26,83 @@
             }
         },
         "levels/00.tmj": {
-            "scale": 1,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 547,
-                "y": 392.5
-            }
-        },
-        "levels/01.tmj": {
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 820,
-                "y": 437
+                "x": 1499,
+                "y": 621
+            }
+        },
+        "levels/01.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1276.6666666666665,
+                "y": 389.99999999999994
             }
         },
         "levels/02.tmj": {
-            "scale": 0.33,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 260.60606060606074,
-                "y": 586.3636363636364
+                "x": 50,
+                "y": 538
             }
         },
         "levels/03.tmj": {
-            "scale": 0.25,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1440,
-                "y": 710
+                "x": -1862.121212121212,
+                "y": 50
             }
         },
         "levels/04.tmj": {
             "scale": 0.125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1000,
-                "y": 956
+                "x": 396,
+                "y": 236
             }
         },
         "levels/05.tmj": {
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1868,
-                "y": 18
+                "x": 398,
+                "y": 238
             }
         },
         "levels/06.tmj": {
             "scale": 1.375125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 399.963639669121,
-                "y": 240.34178711026271
+                "x": 400.32724297791106,
+                "y": 240.34178711026266
             }
         },
         "levels/07.tmj": {
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 268,
-                "y": 18
+                "x": 398,
+                "y": 238
             }
         },
         "levels/08.tmj": {
             "scale": 0.125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -120,
-                "y": 428
+                "x": 396,
+                "y": 236
             }
         },
         "levels/09.tmj": {
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -6680,
-                "y": 542
+                "x": 398,
+                "y": 238
             }
         },
         "tileset.tsx": {
@@ -113,8 +113,7 @@
     "last.imagePath": "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor",
     "last.worldFilePath": "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor/levels",
     "loadedWorlds": [
-        "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor/levels/alllevels.world",
-        "C:/dev/MonoGame.Samples/Platformer2D/tilemap-editor/levels/alllevels.world"
+        "C:/dev/MonoGame.Samples.Tiled/tilemap-editor/levels/alllevels.world"
     ],
     "map.height": 15,
     "map.lastUsedFormat": "json",
