@@ -34,43 +34,43 @@
             }
         },
         "levels/01.tmj": {
-            "scale": 0.75,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 399.33333333333326,
-                "y": 239.33333333333326
+                "x": 586.3636363636365,
+                "y": -62.12121212121201
             }
         },
         "levels/02.tmj": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 800.6666666666667,
-                "y": 239.33333333333326
+                "x": 4588.666666666666,
+                "y": 415.33333333333326
             }
         },
         "levels/03.tmj": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 398.4848484848484,
-                "y": 240.909090909091
+                "x": -1539,
+                "y": 333
             }
         },
         "levels/04.tmj": {
-            "scale": 0.125,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 396,
-                "y": 236
+                "x": 1279,
+                "y": 339
             }
         },
         "levels/05.tmj": {
-            "scale": 0.25,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 398,
-                "y": 238
+                "x": 145.75,
+                "y": 242.25
             }
         },
         "levels/06.tmj": {
@@ -98,11 +98,11 @@
             }
         },
         "levels/09.tmj": {
-            "scale": 0.03125,
+            "scale": 0.125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -3728,
-                "y": 6352
+                "x": -1932,
+                "y": 1332
             }
         },
         "tileset.tsx": {

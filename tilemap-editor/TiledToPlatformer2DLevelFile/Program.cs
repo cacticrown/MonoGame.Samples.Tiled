@@ -67,7 +67,7 @@ class TiledToTxt
             case 13: return '#';
             case 14: return ';';
             case 15: return '-';
-            case 19: return ':';
+            case 19: return ',';
             default: return '?';  // unknown / invalid tile
         }
     }
