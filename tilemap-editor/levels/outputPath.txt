@@ -1,0 +1,1 @@
+C:\dev\MonoGame.Samples\MonoGame.Samples\Platformer2D\Desktop\bin\Debug\net9.0\Content\Levels

@@ -7,10 +7,12 @@ class TiledToTxt
 {
     static void Main(string[] args)
     {
-        foreach(var file in Directory.GetFiles(Directory.GetCurrentDirectory(), "*.tmj"))
+        string outputPath = File.ReadAllText("outputPath.txt").Trim();
+
+        foreach (var file in Directory.GetFiles(Directory.GetCurrentDirectory(), "*.tmj"))
         {
             string outputFile = Path.ChangeExtension(file, ".txt");
-            outputFile = Path.Combine(Directory.CreateDirectory("output").FullName, Path.GetFileName(outputFile));
+            outputFile = Path.Combine(Directory.CreateDirectory(outputPath).FullName, Path.GetFileName(outputFile));
 
             string json = File.ReadAllText(file);
             using JsonDocument doc = JsonDocument.Parse(json);
