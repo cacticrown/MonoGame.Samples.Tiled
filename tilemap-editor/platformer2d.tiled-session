@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "levels/01.tmj",
+    "activeFile": "levels/08.tmj",
     "expandedProjectPaths": [
         "levels",
         "."
@@ -34,67 +34,67 @@
             }
         },
         "levels/01.tmj": {
-            "scale": 0.25,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1416,
-                "y": 1810
+                "x": 696,
+                "y": 793
             }
         },
         "levels/02.tmj": {
-            "scale": 1.5,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 53.333333333333314,
-                "y": 571.6666666666666
+                "x": 834,
+                "y": 3209
             }
         },
         "levels/03.tmj": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 674,
-                "y": 943.5
+                "x": 800,
+                "y": -88.66666666666674
             }
         },
         "levels/04.tmj": {
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 674,
-                "y": 463.5
+                "x": 600,
+                "y": 239.5
             }
         },
         "levels/05.tmj": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 501.3333333333333,
-                "y": 685.9999999999999
+                "x": 601.3333333333333,
+                "y": 1651.3333333333333
             }
         },
         "levels/06.tmj": {
-            "scale": 0.33,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 603.0303030303032,
-                "y": 310.60606060606074
-            }
-        },
-        "levels/07.tmj": {
-            "scale": 0.5,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 302,
-                "y": 487
-            }
-        },
-        "levels/08.tmj": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 505.3333333333333,
-                "y": 1048.6666666666667
+                "x": 363.9999999999999,
+                "y": 755.3333333333333
+            }
+        },
+        "levels/07.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 632,
+                "y": -2636.5
+            }
+        },
+        "levels/08.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 976,
+                "y": 22
             }
         },
         "levels/09.tmj": {
@@ -127,7 +127,8 @@
         "levels/05.tmj",
         "levels/06.tmj",
         "levels/07.tmj",
-        "levels/01.tmj"
+        "levels/01.tmj",
+        "levels/08.tmj"
     ],
     "project": "platformer2d.tiled-project",
     "recentFiles": [
