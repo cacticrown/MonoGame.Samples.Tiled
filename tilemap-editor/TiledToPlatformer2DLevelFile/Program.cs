@@ -50,10 +50,9 @@ class TiledToTxt
 
     static char TileToChar(int tileId)
     {
-        // Strategic control point: define your level language here
         switch (tileId)
         {
-            case 0: return '.';   // empty
+            case 0: return '.'; // empty
             case 1: return 'X';
             case 2: return '1';
             case 3: return '2';
